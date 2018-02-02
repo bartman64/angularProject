@@ -1,0 +1,16 @@
+app-task {
+    width: 100%;
+    margin: 3px;
+    align-self: start;
+}
+
+app-status {
+    width: 100%;
+    margin: 2px;
+    align-self: start;
+
+}
+
+mat-grid-list.mat-grid-list{
+    margin-top: 5px;
+}
